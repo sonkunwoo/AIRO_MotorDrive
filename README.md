@@ -2,19 +2,19 @@
 
 # The external appearance
 
-<img width="881" height="569" alt="Image" src="https://github.com/user-attachments/assets/f2fd4c60-16a1-450c-86de-910d1829eb75" />
+<img width="720" height="470" alt="Image" src="https://github.com/user-attachments/assets/f1855df3-3a99-4fa4-8d06-a8a38a6907cc" />
 
 # Spec
 
 ---
 
-<img width="886" height="547" alt="Image" src="https://github.com/user-attachments/assets/5c941dba-a7d8-4297-8108-bdc7e38292e5" />
+<img width="732" height="458" alt="Image" src="https://github.com/user-attachments/assets/6836cfe1-4b3d-475a-88e1-182407107bf3" />
 
 # Dimension
 
 ---
 
-<img width="893" height="523" alt="Image" src="https://github.com/user-attachments/assets/3f834dd1-fa3a-4d3f-a555-b68e8391277f" />
+<img width="732" height="430" alt="Image" src="https://github.com/user-attachments/assets/26975d11-c784-4063-9b1f-40b57e8adc11" />
 
 # MCU & Driver Pinout
 
